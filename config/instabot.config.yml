@@ -32,32 +32,32 @@ time_till_unlike: 604800
 comments_per_day: 0
 comment_list: 
   - 
-    - this
-    - the
-    - your
+    - essa
+    - a
+    - sua
   - 
-    - photo
-    - picture
-    - pic
-    - shot
-    - snapshot
-    - capture
+    - foto
+    - imagem
+    - img
+    - fotografia
+    - post
+    - postagem
   - 
-    - is
-    - looks
-    - "is really"
+    - está
+    - ficou
+    - "realmente é"
   - 
-    - great
-    - super
-    - good
+    - ótima
+    - interessante
+    - boa
     - wow
-    - cool
-    - great
-    - magnificent
-    - magical
-    - stylish
-    - beautiful
-    - lovely
+    - legal
+    - linda
+    - top
+    - "super legal"
+    - show
+    - "nota mil"
+    - excelente
     - excellent
     - amazing
   - 
@@ -66,31 +66,36 @@ comment_list:
     - "!"
     - "!!!"
 tag_list: 
-  - landscape
-  - cityscape
-  - portraiture
-  - travel
-  - sunrise
-  - sunset
-  - milkyway
+  - empreendedor
+  - negocio
+  - projeto
+  - artesanato
+  - viagem
+  - turismo
+  - nordeste
+  - pernambuco
+  - gastronomia
   - drone
-  - food
-  - model
-  - traveldestination
-  - wunderlust
-  - nature
-  - model
-  - cookie
-  - cake
-  - street
-  - foodism
-  - candid
-  - healthyfood
-  - healt
-  - portraiture
-  - streetfood
+  - empresa
+  - coworking
+  - engenharia
+  - construcao
+  - dropshipping
+  - revendedor
+  - artesanato
+  - microempreendedor
+  - sebrae
+  - informatica
+  - desenvolvimentoprofissional
+  - coach
+  - lideranca
+  - saudavel
+  - treinamento
 tag_blacklist: 
   - nude
+  - noticias
+  - news
+  - jornal
   - sexy
   - lgbt
   - gay
